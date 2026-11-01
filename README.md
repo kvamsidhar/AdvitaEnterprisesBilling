@@ -1,2 +1,3 @@
 # AdvitaEnterprisesBilling
-Advitha Enterprises billing account
+Advitha Enterprises billing app.
+Author - Vamsidhar Kunda
