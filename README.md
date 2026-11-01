@@ -9,6 +9,8 @@ Python 3.10 or newer (64-bit recommended)
 Internet connection and a Gemini API key for AI item generation
 INSTALL
 
+First install.bat, then launch.bat
+
 Extract the entire ZIP into a folder.
 Double-click setup.bat and wait for installation to finish.
 Double-click launch.bat to open the Tkinter application.
